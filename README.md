@@ -12,8 +12,8 @@ This project is a React application built with a focus on architectural best pra
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
-cd frontend-architecture
+git clone https://github.com/rash23/architecture.git
+cd architecture
 yarn install
 ```
 
